@@ -2,12 +2,15 @@
 局部高亮的TextView,可以设置高亮字符开始的位置,高亮字符的个数,高亮字符的颜色
 
 ##项目说明
+```
 highlighttextview  为库项目
 sample             示例项目
-
+```
 ##使用方法
+```
 下载项目
 compile project(':highlighttextview')
+```
 
 ##xml可用属性
 ```xml
