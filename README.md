@@ -1,5 +1,7 @@
 # HighlightTextView
 局部高亮的TextView,可以设置高亮字符开始的位置,高亮字符的个数,高亮字符的颜色
+![1](https://raw.githubusercontent.com/angcyo/HighlightTextView/master/art/QQ%E5%9B%BE%E7%89%8720151209162001.png)
+![2](https://raw.githubusercontent.com/angcyo/HighlightTextView/master/art/QQ%E5%9B%BE%E7%89%8720151209162032.png)
 
 ##项目说明
 ```
